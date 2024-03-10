@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SONUshilla/DAIRY/static/css/main.b55d07ff.css",
+    "main.js": "/SONUshilla/DAIRY/static/js/main.f4866295.js",
+    "index.html": "/SONUshilla/DAIRY/index.html",
+    "main.b55d07ff.css.map": "/SONUshilla/DAIRY/static/css/main.b55d07ff.css.map",
+    "main.f4866295.js.map": "/SONUshilla/DAIRY/static/js/main.f4866295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55d07ff.css",
+    "static/js/main.f4866295.js"
+  ]
+}
